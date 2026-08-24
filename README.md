@@ -113,12 +113,65 @@ My professional work combines quality data, operational context, analytics, auto
 
 Public repositories contain portfolio work and non-confidential demonstrations only. Proprietary data, internal systems, and company methodology are intentionally excluded.
 
+## Professional experience
+
+### Quality Data Scientist · Hach Company
+
+I apply data science, machine learning, analytics engineering, and automation to non-confidential quality and operational problems. My work includes developing automated data pipelines, predictive classification workflows, SQL-based reporting, Power BI dashboards, data-source integration, and reusable analytical processes that support quality assurance and operational decision-making.
+
+**Technical focus:** Python · SQL · Power BI · Machine Learning · Statistical Analysis · Predictive Modeling · Data Automation · Model Validation · Reporting Workflows
+
+> Company datasets, internal systems, proprietary source code, and confidential methodologies are not published on this profile. The public repositories demonstrate related technical capabilities using independent or publicly permitted data.
+
+### Machine Learning Research Assistant · University of Arizona College of Nursing
+
+Applied deep-learning architectures—including LSTM, bidirectional LSTM, CNN, and autoencoder-based approaches—to healthcare research involving labor-duration prediction. The work included data preparation, model experimentation, performance evaluation, and communication of findings within an interdisciplinary research environment.
+
+**Technical focus:** Python · TensorFlow/Keras · LSTM · Bidirectional LSTM · CNN · Autoencoders · Healthcare Analytics · Model Evaluation
+
 ## How I build
 
 1. **Frame the decision** — define the real problem, target, constraints, and meaningful evaluation criteria.
 2. **Establish evidence** — validate data, build baselines, compare candidates, and inspect failure modes.
 3. **Engineer for reuse** — separate training and inference, preserve metadata, test artifacts, and document assumptions.
 4. **Deliver responsibly** — expose limitations, validate deployments, and communicate results for technical and business audiences.
+
+## Education
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>University of Arizona</strong><br />
+      Master of Science in Data Science
+    </td>
+    <td width="50%" valign="top">
+      <strong>Texas McCombs School of Business</strong><br />
+      Post Graduate Program in Data Science and Business Analytics
+    </td>
+  </tr>
+</table>
+
+<!-- Add Amity University after confirming the exact degree, field of study, and preferred date format. -->
+
+## Current technical development
+
+I continue to expand this portfolio toward production-oriented AI and ML engineering, with current emphasis on:
+
+- retrieval-augmented generation and evidence-grounded AI;
+- instruction tuning, LoRA, and parameter-efficient adaptation;
+- semantic retrieval, reranking, and vector-search workflows;
+- multimodal and vision-language systems;
+- ONNX conversion and browser-based inference;
+- model evaluation, release gates, testing, and CI/CD;
+- future MLOps, cloud deployment, monitoring, and model-versioning workflows.
+
+## Selected credentials and continuous learning
+
+- **[Official certification title]** — [Issuing organization] · [Credential link]
+- **[Official certification title]** — [Issuing organization] · [Credential link]
+- **[Official certification title]** — [Issuing organization] · [Credential link]
+
+<!-- Keep only substantial, role-relevant credentials. Replace every bracketed field before publishing. -->
 
 ## Explore the portfolio
 
@@ -137,4 +190,4 @@ Public repositories contain portfolio work and non-confidential demonstrations o
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect with me on LinkedIn</a>
 </p>
 
-<!-- FUTURE ADDITIONS (activate only when verified): personal website, downloadable resume, email, publications, technical writing, certifications, Kaggle, and featured production ML case studies. -->
+<!-- FUTURE ADDITIONS (activate only when verified): personal website, downloadable resume, email, publications, technical writing, Kaggle, and featured production ML case studies. -->
