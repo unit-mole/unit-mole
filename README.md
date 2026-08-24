@@ -49,6 +49,18 @@ This portfolio documents a deliberate technical progression: **applied analytics
   </tr>
 </table>
 
+## Flagship projects
+
+Five representative applications selected to demonstrate breadth across structured generation, retrieval-augmented AI, computer vision, speech recognition, and business-facing analytics.
+
+| Project | What it demonstrates | Explore |
+|---|---|---|
+| **Schema-Aware Text-to-SQL** | Fine-tunes CodeT5+ 770M with LoRA to generate SQLite from natural-language questions and database schemas, then validates and safely executes approved read-only queries. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/01-schema-aware-text-to-sql-encoder-decoder) · [Live application](https://schema-aware-text-to-sql.vercel.app/) |
+| **AI Portfolio RAG Assistant** | Searches public portfolio evidence with MiniLM embeddings and hybrid retrieval, returning grounded answers with source citations, relevance evidence, and latency details through a Next.js application. | [Source code](https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant) · [Live application](https://10-ai-portfolio-rag-assistant.vercel.app/#assistant) |
+| **Vision Transformer Browser Classifier** | Compares a DeiT-tiny Vision Transformer with ResNet-18, validates PyTorch-to-ONNX parity, visualizes attention rollout, and performs private WebGPU/WASM inference in the browser. | [Source code](https://github.com/unit-mole/transformer-projects/tree/main/08-image-classification-vision-transformer) · [Live application](https://unit-mole.github.io/transformer-projects/08-image-classification-vision-transformer/) |
+| **Streaming Speech Recognition with Whisper** | Transcribes microphone or uploaded audio using a Whisper encoder-decoder workflow with chunking, timestamps, language detection, and robustness-oriented evaluation. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/03-streaming-speech-recognition-whisper-encoder-decoder) · [Live application](https://huggingface.co/spaces/anmol-unitmole/streaming-speech-recognition-whisper-encoder-decoder) |
+| **Data-to-Text Executive Report Generator** | Converts structured KPI tables into source-grounded executive narratives while checking numerical claims, surfacing source-cell evidence, and blocking unsupported statements. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/04-data-to-text-executive-report-generator) · [Live application](https://data-to-text-executive-report-gener.vercel.app/) |
+
 ## Engineering range
 
 | Capability | Evidence in this portfolio |
