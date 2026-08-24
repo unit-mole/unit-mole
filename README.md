@@ -85,16 +85,6 @@ flowchart TD
     F --> G["Evaluation, CI & deployment"]
 ```
 
-<p align="center">
-  <a href="https://github.com/unit-mole/ann-deep-learning-projects">ANN</a> ·
-  <a href="https://github.com/unit-mole/simple-rnn-projects">RNN</a> ·
-  <a href="https://github.com/unit-mole/lstm-projects">LSTM</a> ·
-  <a href="https://github.com/unit-mole/bi-directional-lstm-projects">BiLSTM</a> ·
-  <a href="https://github.com/unit-mole/cnn-projects">CNN</a> ·
-  <a href="https://github.com/unit-mole/encoder-decoder-projects">Encoder–Decoder</a> ·
-  <a href="https://github.com/unit-mole/transformer-projects">Transformers</a>
-</p>
-
 ## Technical toolkit
 
 **Languages & analysis**  
@@ -169,13 +159,10 @@ Applied deep-learning architectures—including LSTM, bidirectional LSTM, CNN, a
 
 I continue to expand this portfolio toward production-oriented AI and ML engineering, with current emphasis on:
 
-- retrieval-augmented generation and evidence-grounded AI;
-- instruction tuning, LoRA, and parameter-efficient adaptation;
-- semantic retrieval, reranking, and vector-search workflows;
-- multimodal and vision-language systems;
-- ONNX conversion and browser-based inference;
-- model evaluation, release gates, testing, and CI/CD;
-- future MLOps, cloud deployment, monitoring, and model-versioning workflows.
+- retrieval-augmented generation, semantic retrieval, reranking, and evidence-grounded AI;
+- instruction tuning, LoRA, and parameter-efficient model adaptation;
+- multimodal systems, ONNX conversion, and browser-based inference;
+- model evaluation, testing, CI/CD, cloud deployment, monitoring, and model versioning.
 
 ## Selected credentials and continuous learning
 
