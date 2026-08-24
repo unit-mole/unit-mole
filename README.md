@@ -144,14 +144,85 @@ Applied deep-learning architectures—including LSTM, bidirectional LSTM, CNN, a
   <tr>
     <td width="50%" valign="top">
       <strong>University of Arizona</strong><br />
-      Master of Science in Data Science
+      Master of Science in Data Science<br />
+      <strong>GPA:</strong> 3.889 / 4.000
     </td>
     <td width="50%" valign="top">
       <strong>Texas McCombs School of Business</strong><br />
-      Post Graduate Program in Data Science and Business Analytics
+      Post Graduate Program in Data Science and Business Analytics<br />
+      <strong>Overall grade:</strong> 4.00 / 4.00
     </td>
   </tr>
 </table>
+
+### Graduate curriculum
+
+<details>
+  <summary><strong>University of Arizona — Curriculum and academic performance</strong></summary>
+  <br />
+  <p><strong>Academic summary:</strong> 30 graduate units · 8 A grades · 1 B grade · 1 Pass</p>
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Term</th>
+        <th align="left">Course</th>
+        <th align="center">Units</th>
+        <th align="center">Grade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Fall 2022</td><td>INFO 520 — Ethical Issues in Information</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Fall 2022</td><td>INFO 521 — Intro to Machine Learning</td><td align="center">3</td><td align="center">B</td></tr>
+      <tr><td>Fall 2022</td><td>INFO 523 — Data Mining/Discovery</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Spring 2023</td><td>INFO 507 — Information Research Methods</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Spring 2023</td><td>INFO 526 — Data Analysis and Visualization</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Spring 2023</td><td>INFO 550 — Artificial Intelligence</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Fall 2023</td><td>INFO 555 — Applied NLP</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Fall 2023</td><td>INFO 557 — Neural Networks</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Fall 2023</td><td>INFO 579 — SQL/NoSQL Databases</td><td align="center">3</td><td align="center">A</td></tr>
+      <tr><td>Fall 2023</td><td>NURS 599 — Independent Study</td><td align="center">3</td><td align="center">Pass</td></tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary><strong>Texas McCombs — Data Science and Business Analytics curriculum</strong></summary>
+  <br />
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Learning area</th>
+        <th align="left">Coursework</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Programming and data</strong></td>
+        <td>Python for Data Science · SQL</td>
+      </tr>
+      <tr>
+        <td><strong>Statistics and analytics</strong></td>
+        <td>Statistical Methods for Decision Making · Advanced Statistics · Data Mining</td>
+      </tr>
+      <tr>
+        <td><strong>Predictive modeling</strong></td>
+        <td>Predictive Modeling · Machine Learning · Time Series Forecasting</td>
+      </tr>
+      <tr>
+        <td><strong>Business applications</strong></td>
+        <td>Marketing and Retail Analytics · Finance and Risk Analytics</td>
+      </tr>
+      <tr>
+        <td><strong>Visualization</strong></td>
+        <td>Data Visualization using Tableau</td>
+      </tr>
+      <tr>
+        <td><strong>Applied integration</strong></td>
+        <td>Capstone Project — Post Graduate Program in Data Science and Business Analytics</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <!-- Add Amity University after confirming the exact degree, field of study, and preferred date format. -->
 
