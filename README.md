@@ -75,15 +75,21 @@ Five representative applications selected to demonstrate breadth across structur
 
 ## From foundations to deployed AI
 
-```mermaid
-flowchart TD
-    A["Applied analytics & statistics"] --> B["Classical machine learning"]
-    B --> C["ANN & computer vision"]
-    C --> D["RNN, LSTM & bidirectional LSTM"]
-    D --> E["Encoder–decoder systems"]
-    E --> F["Transformers, multimodal AI & RAG"]
-    F --> G["Evaluation, CI & deployment"]
-```
+<p align="center">
+  <strong>Applied analytics &amp; statistics</strong><br />
+  ↓<br />
+  <strong>Classical machine learning</strong><br />
+  ↓<br />
+  <strong>Artificial neural networks &amp; computer vision</strong><br />
+  ↓<br />
+  <strong>RNN, LSTM &amp; bidirectional LSTM systems</strong><br />
+  ↓<br />
+  <strong>Encoder–decoder architectures</strong><br />
+  ↓<br />
+  <strong>Transformers, multimodal AI &amp; retrieval-augmented generation</strong><br />
+  ↓<br />
+  <strong>Evaluation, testing, CI/CD &amp; deployment</strong>
+</p>
 
 ## Technical toolkit
 
