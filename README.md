@@ -5,8 +5,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/anmol-unitmole"><img src="https://img.shields.io/badge/Hugging_Face-Models_&_Demos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
-  <a href="mailto:tripathianmol74@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anmol Tripathi" /></a>
+  <a href="assets/resume/Anmol_Tripathi_Profile_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-Download-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download résumé" /></a>
 </p>
+
+<p align="center">
+  <a href="mailto:tripathianmol74@gmail.com"><img src="https://img.shields.io/badge/Email-Professional-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email tripathianmol74@gmail.com" /></a>
+  <a href="mailto:rckanmoltripathi.1@gmail.com"><img src="https://img.shields.io/badge/Email-Alternate-C5221F?style=flat-square&logo=gmail&logoColor=white" alt="Email rckanmoltripathi.1@gmail.com" /></a>
+</p>
+
+<!-- Add the portfolio website button beside the résumé button after the website is published and its final URL is verified. -->
 
 ## I turn complex data into grounded AI systems, defensible predictions, and decision-ready insights
 
@@ -58,6 +65,39 @@ At [Hach](https://www.hach.com/), I develop machine-learning and AI solutions fo
 | **Vision Transformer Browser Classifier** | Compares DeiT-tiny with ResNet-18, validates PyTorch-to-ONNX parity, visualizes attention rollout, and performs private WebGPU/WASM inference in the browser. | [Source code](https://github.com/unit-mole/transformer-projects/tree/main/08-image-classification-vision-transformer) · [Live application](https://unit-mole.github.io/transformer-projects/08-image-classification-vision-transformer/) |
 | **Streaming Speech Recognition with Whisper** | Transcribes microphone or uploaded audio through a Whisper encoder-decoder workflow with chunking, timestamps, language detection, and robustness-oriented evaluation. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/03-streaming-speech-recognition-whisper-encoder-decoder) · [Live application](https://huggingface.co/spaces/anmol-unitmole/streaming-speech-recognition-whisper-encoder-decoder) |
 | **Data-to-Text Executive Report Generator** | Converts structured KPI tables into source-grounded executive narratives while checking numerical claims, exposing source-cell evidence, and blocking unsupported statements. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/04-data-to-text-executive-report-generator) · [Live application](https://data-to-text-executive-report-gener.vercel.app/) |
+
+## Explore live applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Schema-Aware Text-to-SQL</h3>
+      <p>Natural language → validated read-only SQLite</p>
+      <p><code>CodeT5+</code> <code>LoRA</code> <code>Vercel</code></p>
+      <a href="https://schema-aware-text-to-sql.vercel.app/"><img src="https://img.shields.io/badge/Launch-Live_Application-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Schema-Aware Text-to-SQL" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>AI Portfolio RAG Assistant</h3>
+      <p>Grounded portfolio answers with retrieval evidence</p>
+      <p><code>MiniLM</code> <code>Hybrid Retrieval</code> <code>Next.js</code></p>
+      <a href="https://10-ai-portfolio-rag-assistant.vercel.app/#assistant"><img src="https://img.shields.io/badge/Launch-Live_Application-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch AI Portfolio RAG Assistant" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Vision Transformer Classifier</h3>
+      <p>Private in-browser inference with attention rollout</p>
+      <p><code>DeiT</code> <code>ONNX</code> <code>WebGPU/WASM</code></p>
+      <a href="https://unit-mole.github.io/transformer-projects/08-image-classification-vision-transformer/"><img src="https://img.shields.io/badge/Launch-Browser_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Launch Vision Transformer Classifier" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Whisper Speech Recognition</h3>
+      <p>Chunked transcription with timestamps and language detection</p>
+      <p><code>Whisper</code> <code>Transformers</code> <code>Hugging Face</code></p>
+      <a href="https://huggingface.co/spaces/anmol-unitmole/streaming-speech-recognition-whisper-encoder-decoder"><img src="https://img.shields.io/badge/Launch-Live_Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Launch Whisper Speech Recognition" /></a>
+    </td>
+  </tr>
+</table>
 
 ## Engineering range
 
@@ -171,6 +211,8 @@ The repository link and verified evaluation results will be added after the firs
 - **The Complete SQL Bootcamp: Go from Zero to Hero**
 - **Introduction to Python**
 
+[View credential records on LinkedIn →](https://www.linkedin.com/in/anmol-tripathi-60311917a/details/certifications/)
+
 ## Explore the portfolio
 
 | Path | Best starting point |
@@ -187,5 +229,6 @@ The repository link and verified evaluation results will be added after the firs
 
 <p align="center">
   <strong>Open to Data Scientist, Machine Learning Engineer, NLP, and Applied AI opportunities.</strong><br />
-  <a href="mailto:tripathianmol74@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a>
+  <a href="mailto:tripathianmol74@gmail.com">Professional email</a> · <a href="mailto:rckanmoltripathi.1@gmail.com">Alternate email</a> · <a href="assets/resume/Anmol_Tripathi_Profile_Resume.pdf">Download résumé</a><br />
+  <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a>
 </p>
