@@ -6,7 +6,11 @@
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/anmol-unitmole"><img src="https://img.shields.io/badge/Hugging_Face-Models_&_Demos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
   <a href="#portfolio-website"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website coming soon" /></a>
-  <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf?download=1"><img src="https://img.shields.io/badge/Résumé-Download-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download résumé" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-Preview-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Preview résumé on GitHub" /></a>
+  <a href="https://raw.githubusercontent.com/unit-mole/unit-mole/main/assets/Anmol_Tripathi_Profile_Resume.pdf"><img src="https://img.shields.io/badge/Download-PDF-2563EB?style=for-the-badge&logo=files&logoColor=white" alt="Download résumé PDF" /></a>
 </p>
 
 <p align="center">
@@ -236,6 +240,7 @@ The repository link and verified evaluation results will be added after the firs
 
 <p align="center">
   <strong>Open to Data Scientist, Machine Learning Engineer, NLP, and Applied AI opportunities.</strong><br />
-  <a href="mailto:tripathianmol74@gmail.com">Primary email</a> · <a href="mailto:rckanmoltripathi.1@gmail.com">Alternate email</a> · <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf?download=1">Download résumé</a><br />
+  <a href="mailto:tripathianmol74@gmail.com">Primary email</a> · <a href="mailto:rckanmoltripathi.1@gmail.com">Alternate email</a><br />
+  <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Preview résumé</a> · <a href="https://raw.githubusercontent.com/unit-mole/unit-mole/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Download résumé PDF</a><br />
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a>
 </p>
