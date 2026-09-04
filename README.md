@@ -22,11 +22,11 @@
 
 ## I turn complex data into grounded AI systems, defensible predictions, and decision-ready insights
 
-I am **Anmol Tripathi**, a **Quality Data Scientist and Machine Learning Engineer** with **7+ years of experience** across network operations, analytics, predictive modeling, deep learning, NLP, retrieval-augmented generation, and applied AI.
+I am **Anmol Tripathi**, a **Quality Data Scientist and Machine Learning Engineer** with **7+ years of experience** across network operations, analytics, predictive modeling, deep learning, NLP, retrieval-augmented generation, agentic AI, and applied AI.
 
-At [Hach](https://www.hach.com/), I develop machine-learning and AI solutions for product-quality intelligence, including source-grounded RAG workflows, multi-stage NLP classification, analytics automation, and executive reporting. My public portfolio translates that experience into non-confidential, reproducible projects spanning statistical learning, neural networks, sequence models, Transformers, multimodal AI, retrieval, and deployment.
+At [Hach](https://www.hach.com/), I develop machine-learning and AI solutions for product-quality intelligence, including source-grounded RAG workflows, multi-stage NLP classification, analytics automation, and executive reporting. My public portfolio translates that experience into non-confidential, reproducible projects spanning statistical learning, neural networks, sequence models, Transformers, multimodal AI, retrieval, agentic workflows, and deployment.
 
-> **Current focus:** reliable NLP and RAG systems, hybrid retrieval and reranking, calibrated prediction, transparent evaluation, and production-oriented ML workflows.
+> **Current focus:** evidence-grounded RAG and agentic AI, hybrid retrieval and reranking, graph-enhanced reasoning, bounded tool use, transparent evaluation, and production-oriented ML workflows.
 
 ## Selected work
 
@@ -61,18 +61,58 @@ At [Hach](https://www.hach.com/), I develop machine-learning and AI solutions fo
   </tr>
 </table>
 
+## RAG & Agentic AI systems
+
+Four evidence-driven systems demonstrating retrieval, graph reasoning, bounded agents, verification, safety, observability, and domain-specific evaluation. The three standalone systems run as complete local engineering implementations; their public Hugging Face Spaces are transparent portfolio demonstrations built from validated outputs rather than unsupported claims of free GPU-backed inference.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unit-mole/reliabilityops-agentic-rag">ReliabilityOps</a></h3>
+      <p><strong>Evidence-grounded industrial root-cause investigation.</strong> Combines BGE-M3 + BM25/RRF retrieval, LangGraph orchestration, local Qwen3 reasoning, bounded analytical tools, independent verification, and Phoenix observability.</p>
+      <p><strong>Frozen test:</strong> 93% RCA Top-1 · 100% Top-3 · 100% citation precision · 100% verification pass rate</p>
+      <p><code>LangGraph</code> <code>Qwen3</code> <code>Qdrant</code> <code>PostgreSQL</code> <code>FastAPI</code> <code>Docker</code></p>
+      <p><a href="https://github.com/unit-mole/reliabilityops-agentic-rag"><strong>Repository →</strong></a> · <a href="https://huggingface.co/spaces/anmol-unitmole/reliabilityops-agentic-rag"><strong>Portfolio demo →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unit-mole/repoatlas-agentic-rag">RepoAtlas</a></h3>
+      <p><strong>Graph-enhanced repository intelligence and safe coding agent.</strong> Maps issues to files and symbols, expands repository relationships, discovers affected tests, and verifies bounded candidate changes inside a network-disabled Docker sandbox.</p>
+      <p><strong>Frozen test:</strong> 84.3% File Recall@20 · 75.7% File Recall@10 · 30.9 ms selected-retriever latency</p>
+      <p><code>Hybrid Retrieval</code> <code>Repository Graph</code> <code>Qwen3</code> <code>FastAPI</code> <code>Docker Sandbox</code></p>
+      <p><a href="https://github.com/unit-mole/repoatlas-agentic-rag"><strong>Repository →</strong></a> · <a href="https://huggingface.co/spaces/anmol-unitmole/repoatlas-agentic-rag"><strong>Portfolio demo →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unit-mole/filingsgraph-agentic-rag">FilingsGraph</a></h3>
+      <p><strong>Temporal financial due-diligence and risk intelligence.</strong> Integrates SEC EDGAR filings, XBRL facts, hybrid retrieval, deterministic financial tools, temporal comparison, and a provenance-preserving company-risk graph.</p>
+      <p><strong>Evaluation:</strong> 100% textual Recall@10 · 100% XBRL fact selection · 90% blind graph-edge precision · 100% citation precision</p>
+      <p><code>SEC/XBRL</code> <code>BGE-M3</code> <code>Qwen3</code> <code>DuckDB</code> <code>NetworkX</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/unit-mole/filingsgraph-agentic-rag"><strong>Repository →</strong></a> · <a href="https://huggingface.co/spaces/anmol-unitmole/filingsgraph-agentic-rag"><strong>Portfolio demo →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant">AI Portfolio RAG Assistant</a></h3>
+      <p><strong>Public portfolio discovery through grounded retrieval.</strong> Searches 220 public AI/ML documents and 3,157 evidence chunks using MiniLM embeddings and hybrid retrieval, then returns source-cited answers with relevance and latency details.</p>
+      <p><strong>Delivery:</strong> reproducible Python evaluation · Next.js APIs · GitHub Actions · production Vercel deployment</p>
+      <p><code>MiniLM</code> <code>FLAN-T5</code> <code>DeBERTa NLI</code> <code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></p>
+      <p><a href="https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant"><strong>Source code →</strong></a> · <a href="https://10-ai-portfolio-rag-assistant.vercel.app/#assistant"><strong>Live application →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+**Across these systems:** hybrid retrieval · reranking · GraphRAG · agent orchestration · deterministic tools · citation verification · frozen-test evaluation · latency analysis · FastAPI · Docker · CI/CD · responsible-use controls
+
 <a id="portfolio-website"></a>
 
 ## Portfolio website
 
 My dedicated portfolio website is the next stage of this professional portfolio and is currently being prepared. Once published, the **Portfolio** button above will link directly to the live website, bringing together my experience, flagship projects, deployed applications, technical case studies, and résumé in one place.
 
-## Flagship projects
+## Additional flagship systems
 
 | Project | What it demonstrates | Explore |
 |---|---|---|
 | **Schema-Aware Text-to-SQL** | Fine-tunes CodeT5+ 770M with LoRA to generate SQLite from natural-language questions and database schemas, then validates and safely executes approved read-only queries. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/01-schema-aware-text-to-sql-encoder-decoder) · [Live application](https://schema-aware-text-to-sql.vercel.app/) |
-| **AI Portfolio RAG Assistant** | Uses MiniLM embeddings and hybrid retrieval to answer questions from public portfolio evidence with citations, relevance evidence, and latency details. | [Source code](https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant) · [Live application](https://10-ai-portfolio-rag-assistant.vercel.app/#assistant) |
 | **Vision Transformer Browser Classifier** | Compares DeiT-tiny with ResNet-18, validates PyTorch-to-ONNX parity, visualizes attention rollout, and performs private WebGPU/WASM inference in the browser. | [Source code](https://github.com/unit-mole/transformer-projects/tree/main/08-image-classification-vision-transformer) · [Live application](https://unit-mole.github.io/transformer-projects/08-image-classification-vision-transformer/) |
 | **Streaming Speech Recognition with Whisper** | Transcribes microphone or uploaded audio through a Whisper encoder-decoder workflow with chunking, timestamps, language detection, and robustness-oriented evaluation. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/03-streaming-speech-recognition-whisper-encoder-decoder) · [Live application](https://huggingface.co/spaces/anmol-unitmole/streaming-speech-recognition-whisper-encoder-decoder) |
 | **Data-to-Text Executive Report Generator** | Converts structured KPI tables into source-grounded executive narratives while checking numerical claims, exposing source-cell evidence, and blocking unsupported statements. | [Source code](https://github.com/unit-mole/encoder-decoder-projects/tree/main/04-data-to-text-executive-report-generator) · [Live application](https://data-to-text-executive-report-gener.vercel.app/) |
@@ -117,9 +157,9 @@ My dedicated portfolio website is the next stage of this professional portfolio 
 | **Applied Data Science** | EDA, statistical analysis, feature engineering, forecasting, predictive modeling, and business visualization |
 | **Classical Machine Learning** | Classification, regression, clustering, ensemble modeling, calibration, benchmarking, and error analysis |
 | **Deep Learning** | ANN, CNN, RNN, LSTM, bidirectional LSTM, autoencoder, encoder-decoder, and Transformer architectures |
-| **NLP & Retrieval** | Text classification, summarization, translation, QA, semantic search, hybrid retrieval, cross-encoder reranking, and RAG |
+| **NLP, RAG & Agents** | Semantic search, hybrid retrieval, reranking, GraphRAG, grounded generation, agent orchestration, tool use, and citation verification |
 | **Computer Vision & Multimodal AI** | CNNs, Vision Transformers, visual question answering, and CLIP image-text retrieval |
-| **ML Engineering** | Reproducible training, modular inference, GPU/BF16 workflows, ONNX conversion, automated tests, CI/CD, and deployment |
+| **ML & AI Engineering** | Reproducible training, local GPU/BF16 inference, FastAPI, Docker, observability, ONNX, automated tests, CI/CD, and deployment |
 | **Analytics Engineering** | Python and SQL automation, data validation, Power BI, Tableau, Excel, KPI reporting, and decision support |
 
 ## Technical toolkit
@@ -137,6 +177,13 @@ My dedicated portfolio website is the next stage of this professional portfolio 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Hugging Face](https://img.shields.io/badge/Transformers-111827?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![ONNX](https://img.shields.io/badge/ONNX-111827?style=flat-square&logo=onnx&logoColor=7DD3FC)
+
+**RAG, agents & infrastructure**  
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=flat-square&logoColor=DC244C)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
 
 **Engineering & communication**  
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
@@ -187,18 +234,6 @@ My dedicated portfolio website is the next stage of this professional portfolio 
 3. **Engineer for reuse** - separate training and inference, preserve metadata, test artifacts, automate validation, and document assumptions.
 4. **Deliver responsibly** - ground outputs in evidence, expose limitations, protect sensitive data, and communicate results for technical and business audiences.
 
-## Now building: ReliabilityOps RAG
-
-I am extending my retrieval work through a new public, non-confidential RAG project focused on reliability and operational knowledge. The project is **in active development** and is intended to demonstrate:
-
-- document ingestion, cleaning, chunking, and metadata-aware indexing;
-- dense and lexical retrieval with reranking and source attribution;
-- grounded question answering with abstention and citation checks;
-- retrieval and generation evaluation, latency tracking, and failure analysis;
-- repeatable local execution, testing, containerization, and deployment documentation.
-
-The repository link and verified evaluation results will be added after the first complete release. No internal Hach data, documents, or proprietary implementation will be included.
-
 ## Education
 
 | Institution | Program | Academic result |
@@ -228,7 +263,7 @@ The repository link and verified evaluation results will be added after the firs
 
 | Path | Best starting point |
 |---|---|
-| **RAG / Retrieval Systems** | [AI Portfolio RAG Assistant](https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant) now; ReliabilityOps RAG after its verified first release |
+| **RAG / Agentic AI** | [ReliabilityOps](https://github.com/unit-mole/reliabilityops-agentic-rag) · [RepoAtlas](https://github.com/unit-mole/repoatlas-agentic-rag) · [FilingsGraph](https://github.com/unit-mole/filingsgraph-agentic-rag) · [AI Portfolio RAG Assistant](https://github.com/unit-mole/transformer-projects/tree/main/10-ai-portfolio-rag-assistant) |
 | **Transformers / Multimodal AI** | [Transformer projects](https://github.com/unit-mole/transformer-projects) - fine-tuning, retrieval, reranking, ONNX, multimodal AI, evaluation, and deployment |
 | **NLP / Generative AI** | [Encoder-decoder projects](https://github.com/unit-mole/encoder-decoder-projects) - Text-to-SQL, speech recognition, and data-to-text systems |
 | **Data Science / Analytics** | [Applied DS & ML portfolio](https://github.com/unit-mole/applied-data-science-machine-learning-portfolio) - 13 projects spanning analysis, modeling, evaluation, and business communication |
@@ -244,3 +279,4 @@ The repository link and verified evaluation results will be added after the firs
   <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Preview résumé</a> · <a href="https://raw.githubusercontent.com/unit-mole/unit-mole/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Download résumé PDF</a><br />
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a>
 </p>
+
