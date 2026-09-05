@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/anmol-unitmole"><img src="https://img.shields.io/badge/Hugging_Face-Models_&_Demos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
-  <a href="#portfolio-website"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website coming soon" /></a>
+  <a href="https://unit-mole.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Anmol Tripathi's portfolio website" /></a>
 </p>
 
 <p align="center">
@@ -17,8 +17,6 @@
   <a href="mailto:tripathianmol74@gmail.com"><img src="https://img.shields.io/badge/Email-Primary-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Primary email tripathianmol74@gmail.com" /></a>
   <a href="mailto:rckanmoltripathi.1@gmail.com"><img src="https://img.shields.io/badge/Email-Alternate-C5221F?style=flat-square&logo=gmail&logoColor=white" alt="Email rckanmoltripathi.1@gmail.com" /></a>
 </p>
-
-<!-- After the website is published, replace #portfolio-website in the Portfolio badge with the verified website URL and change Coming_Soon to Visit_Website. -->
 
 ## I turn complex data into grounded AI systems, defensible predictions, and decision-ready insights
 
@@ -102,11 +100,11 @@ Four evidence-driven systems demonstrating retrieval, graph reasoning, bounded a
 
 **Across these systems:** hybrid retrieval · reranking · GraphRAG · agent orchestration · deterministic tools · citation verification · frozen-test evaluation · latency analysis · FastAPI · Docker · CI/CD · responsible-use controls
 
-<a id="portfolio-website"></a>
-
 ## Portfolio website
 
-My dedicated portfolio website is the next stage of this professional portfolio and is currently being prepared. Once published, the **Portfolio** button above will link directly to the live website, bringing together my experience, flagship projects, deployed applications, technical case studies, and résumé in one place.
+My portfolio brings together my professional experience, Agentic RAG systems, flagship AI/ML projects, deployed applications, technical case studies, education, credentials, and résumé in one recruiter-friendly experience.
+
+[**Visit the live portfolio →**](https://unit-mole.github.io/)
 
 ## Additional flagship systems
 
@@ -275,8 +273,7 @@ My dedicated portfolio website is the next stage of this professional portfolio 
 
 <p align="center">
   <strong>Open to Data Scientist, Machine Learning Engineer, NLP, and Applied AI opportunities.</strong><br />
+  <a href="https://unit-mole.github.io/">Visit portfolio</a> · <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a><br />
   <a href="mailto:tripathianmol74@gmail.com">Primary email</a> · <a href="mailto:rckanmoltripathi.1@gmail.com">Alternate email</a><br />
-  <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Preview résumé</a> · <a href="https://raw.githubusercontent.com/unit-mole/unit-mole/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Download résumé PDF</a><br />
-  <a href="https://www.linkedin.com/in/anmol-tripathi-60311917a/">Connect on LinkedIn</a> · <a href="https://github.com/unit-mole?tab=repositories">Explore all repositories</a>
+  <a href="https://github.com/unit-mole/unit-mole/blob/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Preview résumé</a> · <a href="https://raw.githubusercontent.com/unit-mole/unit-mole/main/assets/Anmol_Tripathi_Profile_Resume.pdf">Download résumé PDF</a>
 </p>
-
